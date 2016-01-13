@@ -34,7 +34,7 @@
 |20|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
 |||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
 |21|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí - KH đại lí có nhu cầu thaanh toán phí|
-|22|**Đại lí CA|KH có nhu cầu làm đại lí, hỏi triết khấu, đại lí đk thêm cks, thanh toán chiết khấu cho đại lí|ĐẠI_Lí
+|22|**Đại lí CA**|KH có nhu cầu làm đại lí, hỏi triết khấu, đại lí đk thêm cks, thanh toán chiết khấu cho đại lí|ĐẠI_Lí
 |||KH đang sd 3 cks trở lên và muốn đkí mua thêm cks mới để BPTKD3 mời KH làm đại lí|Đại_lí
 |||KH đại lí bảo lưu hạn sd và gọi lên có nhu cầu dùng lại. nếu KH thuộc ĐL GOL thì chuyển sang ban PTKD3|Đại_lí
 |23|**ĐL dự án CA**|các vấn đề lquan đến đại lí dự án (đổi sóat) như: ngân hàng chứng khoán, Đl thuế mới thành lập, Đl lquan đến kinh doanh|
