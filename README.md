@@ -48,6 +48,6 @@
 |||KH cần tư vấn, mua mới CKS ( từ 3 công ty trở xuống, không hỏi về chiết khấu, mua thêm CKS KK hải quan, mua thêm kê khai thuế nhà thầu|Mua_mới
 |||KH đã huỷ và trả CKS nhưng muốn dùng lại|Mua_mới|
 |30|**Báo manager**|Vấn đề khác|
-|31|HTKT Ivan|Lần đầu KH sd IVAN|
+|31|**HTKT Ivan**|Lần đầu KH sd IVAN|
 **Hủy dịch vụ or gia hạn ngay trong ngày chuyển acc**
 
