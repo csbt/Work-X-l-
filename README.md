@@ -28,9 +28,22 @@
 |16|**KN hơp đồng**|KH KN hợp đồng, **chưa trả lại bản HĐ cho KH**|KHHĐg|
 |17|**Cấp lại CKS**|KH có nhu cầu cấp lại CKS , thay đổi thông tin|Cấp_lại|
 |18|**Cấp lại CKS**|KH báo chuyển nhượng cks, thời gian sd ( gửi đơn chuyển nhượng cho KH vs giấy đk KD của DN mới|Cấp_lại
-|19|**Công nợ CA phát sinh**|KH đã fax uỷ nhiệm chi(chuyển khoản), phiếu thu(tiền mặt) cho bkav|
-|||KH CA báo có nhu cầu thanh toán, KH KN chưa nhận được hoá đơn ( chưa thanh toán tiền, cần đề nghị thanh toán)
-||
-||
-||
-||
+|19|**Công nợ CA phát sinh**|KH đã fax uỷ nhiệm chi(chuyển khoản), phiếu thu(tiền mặt) cho bkav|Công_nợ
+|||KH CA báo có nhu cầu thanh toán, KH KN chưa nhận được hoá đơn ( chưa thanh toán tiền, cần đề nghị thanh toán)|Công_nợ
+|||KH có yêu cầu bảo lưu hạn sd CKS không có mã đại lí or KH có mã đại lí nhưng 0%|Công_nợ
+|20|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
+|||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
+|21|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí - KH đại lí có nhu cầu thaanh toán phí|
+|22|**Đại lí CA|KH có nhu cầu làm đại lí, hỏi triết khấu, đại lí đk thêm cks, thanh toán chiết khấu cho đại lí|ĐẠI_Lí
+|||KH đang sd 3 cks trở lên và muốn đkí mua thêm cks mới để BPTKD3 mời KH làm đại lí|Đại_lí
+|||KH đại lí bảo lưu hạn sd và gọi lên có nhu cầu dùng lại. nếu KH thuộc ĐL GOL thì chuyển sang ban PTKD3|Đại_lí
+|23|**ĐL dự án CA**|các vấn đề lquan đến đại lí dự án (đổi sóat) như: ngân hàng chứng khoán, Đl thuế mới thành lập, Đl lquan đến kinh doanh|
+|24|**hỗ trợ kĩ thuật AC**|KH cần cài đặt cks, quên pass, reset mã pin, cần htro kê khai, không biết cách chọn tờ khai, kê khai báo lỗi, tr cứu tờ khai, HD kê khai thuế nhà thầu (khi đã có thiết bị), ehaiquan, ehoadon,bảo hiểm...|AC
+|25|**HTKT AC CKK**|KH đã có cks của bkav, cần hướng dẫn kê khai lần đầu cần hướng dẫn gửi tờ khai- KH chỉ đki IVAN|AC_CKK
+|26|**HTKT AC GH**|KH cần cập nhật thông tin GH trên thiết bị ( cập nhật số serial)|HTKT_AC_Gia hạn
+|27|**Hỗ trợ quốc tế**| KH nói tiếng nước ngoài|MaiDTQ
+|28|**Xử lí mail CA**| chuyển các vấn đề lquan đến vc KH gửi mail cho bkav, có nhu cầu xin bảng giá|Mail_CA
+|29|**Mua thẻ mới, tạo đơn đặt hàng**|KH có nhu cầu mua mới CKS, CKS+TVAN, CKS+IVAN|Mua_mới
+|||KH cần tư vấn, mua mới CKS ( từ 3 công ty trở xuống, không hỏi về chiết khấu, mua thêm CKS KK hải quan, mua thêm kê khai thuế nhà thầu|Mua_mới
+|||KH đã huỷ và trả CKS nhưng muốn dùng lại|Mua_mới|
+|30|**Báo manager**|Vấn đề khác|
