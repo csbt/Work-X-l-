@@ -24,5 +24,13 @@
 |||Chưa có băng thông sp|KN_DVKH_CP
 |13|**KN chưa nhận được hoá đơn**|KH KN chưa nhận được hoá đơn **đã hoàn thiện đầy đủ hồ sơ, chưa có thông tin in hoá đơn, chưa có thông tin chuyển phát**|KN_CNHD
 |14|**KN chuyển phát CA**|KN chưa nhận được cks không thuộc BKE,**đã có thông tin in hoá đơn và chuyển HTKD2**|
-|15|**KN hoá đơn**|chuyển các KH KN hoá đơn bị sai
+|15|**KN hoá đơn**|chuyển các KH KN hoá đơn bị sai|
+|16|**KN hơp đồng**|KH KN hợp đồng, **chưa trả lại bản HĐ cho KH**|KHHĐg|
+|17|**Cấp lại CKS**|KH có nhu cầu cấp lại CKS , thay đổi thông tin|Cấp_lại|
+|18|**Cấp lại CKS**|KH báo chuyển nhượng cks, thời gian sd ( gửi đơn chuyển nhượng cho KH vs giấy đk KD của DN mới|Cấp_lại
+|19|**Công nợ CA phát sinh**|KH đã fax uỷ nhiệm chi(chuyển khoản), phiếu thu(tiền mặt) cho bkav|
+|||KH CA báo có nhu cầu thanh toán, KH KN chưa nhận được hoá đơn ( chưa thanh toán tiền, cần đề nghị thanh toán)
+||
+||
+||
 ||
