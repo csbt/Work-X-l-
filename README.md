@@ -3,11 +3,11 @@
 |1|**Gia Hạn CA**|KH có nhu cầu GH CKS|GH|
 |||KH còn hạn sd <120 ngày nhưng cs nhu cầu dk thêm cho công ty khác|GH-chat NVXL|
 |||KH đã huỷ CKS nhưng vẫn giữ thiếu bị và có nhu cầu dùng lại|gh|
-|||KH trước đây đã bảo lưu CKS giờ có nhu cầu dùng lại|gh|
+|||KH lẻ trước đây đã bảo lưu CKS giờ có nhu cầu dùng lại|gh|
 |2|**Gia hạn CA**|KH có nkhu cầu thay đổi gói cước CKS/TVAN của KH lẻ|GH|
 |3|**Gia hạn CA đại lí**|KH có nhu cầu thay đổi gói cước CKS/TVAN của KH đại lí||
 |4|**Gia hạn CA đại lí**|KH có nhu cầu GH, kiểm tra trong hồ sơ KH có 4 CKS trở lên||
-|||KH đã bảo lưu CKS giờ có nhu cầu sd tiếp||
+|||KH ĐL đã bảo lưu CKS giờ có nhu cầu sd tiếp||
 |5|**B gọi IVAn phát sinh**|KH có nhu cầu thay đổi gói cước IVAN|Loanpt
 |6|**B gọi IVAN phát sinh**|KH có nhu cầu đk IVAN mới||
 |7|**Xác minh huỷ dịch vụ**|KH báo huỷ dịch vụ|Huỷ|
@@ -34,17 +34,20 @@
 |||KH có yêu cầu bảo lưu hạn sd CKS không có mã đại lí or KH có mã đại lí nhưng mức chiết khấu=0% (**CHưa kiểm tra được thông tin thanh toán**)|Công_nợ
 |20|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
 |||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
-|21|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí và mức chiết khấu # - KH đại lí có nhu cầu thaanh toán phí|
+|21|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí và mức chiết khấu #0 (**chưa kiểm tra được thông tin thanh toán**) - KH đại lí có nhu cầu thaanh toán phí|
 |22|**Đại lí CA**|KH có nhu cầu làm đại lí, hỏi triết khấu, đại lí đk thêm cks, thanh toán chiết khấu cho đại lí|ĐẠI_Lí
 |||KH đang sd 3 cks trở lên và muốn đkí mua thêm cks mới để BPTKD3 mời KH làm đại lí|Đại_lí
 |||KH đại lí bảo lưu hạn sd và gọi lên có nhu cầu dùng lại. nếu KH thuộc ĐL GOL thì chuyển sang ban PTKD3|Đại_lí
 |23|**ĐL dự án CA**|các vấn đề lquan đến đại lí dự án (đổi sóat) như: ngân hàng chứng khoán, Đl thuế mới thành lập, Đl lquan đến kinh doanh|
-|24|**hỗ trợ kĩ thuật AC**|KH cần cài đặt cks, quên pass, reset mã pin, cần htro kê khai, không biết cách chọn tờ khai, kê khai báo lỗi, tr cứu tờ khai, HD kê khai thuế nhà thầu (khi đã có thiết bị), ehaiquan, ehoadon,bảo hiểm...|AC
-|25|**HTKT AC CKK**|KH đã có cks của bkav, cần hướng dẫn kê khai lần đầu cần hướng dẫn gửi tờ khai- KH chỉ đki IVAN|AC_CKK
-|26|**HTKT AC GH**|KH cần cập nhật thông tin GH trên thiết bị ( cập nhật số serial)|HTKT_AC_Gia hạn
+|24|**hỗ trợ kĩ thuật AC (*AC1*)**|KH cần cài đặt cks, quên pass, reset mã pin, cần htro kê khai, không biết cách chọn tờ khai, kê khai báo lỗi, tr cứu tờ khai, HD kê khai thuế nhà thầu (khi đã có thiết bị), ehaiquan, ehoadon,bảo hiểm... (**đã sd bình thường nhưng hiện tại bị lỗi**)|AC
+|25|**HTKT AC CKK(*AC2*)**|KH đã có cks của bkav, cần hướng dẫn kê khai lần đầu cần hướng dẫn gửi tờ khai- KH chỉ đki IVAN |AC_CKK
+|26|**HTKT AC GH(*AC3*)**|KH cần cập nhật thông tin GH trên thiết bị ( cập nhật số serial)|HTKT_AC_Gia hạn
 |27|**Hỗ trợ quốc tế**| KH nói tiếng nước ngoài|MaiDTQ
-|28|**Xử lí mail CA**| chuyển các vấn đề lquan đến vc KH gửi mail cho bkav, có nhu cầu xin bảng giá|Mail_CA
+|28|**Xử lí mail CA**| chuyển các vấn đề lquan đến vc KH gửi mail cho bkav, có nhu cầu xin bảng giá (TH BC đã đóng)|Mail_CA
 |29|**Mua thẻ mới, tạo đơn đặt hàng**|KH có nhu cầu mua mới CKS, CKS+TVAN, CKS+IVAN|Mua_mới
 |||KH cần tư vấn, mua mới CKS ( từ 3 công ty trở xuống, không hỏi về chiết khấu, mua thêm CKS KK hải quan, mua thêm kê khai thuế nhà thầu|Mua_mới
 |||KH đã huỷ và trả CKS nhưng muốn dùng lại|Mua_mới|
 |30|**Báo manager**|Vấn đề khác|
+|31|HTKT Ivan|Lần đầu KH sd IVAN|
+**Hủy dịch vụ or gia hạn ngay trong ngày chuyển acc**
+
