@@ -25,16 +25,16 @@
 |13|**KN chưa nhận được hoá đơn**|KH KN chưa nhận được hoá đơn **đã hoàn thiện đầy đủ hồ sơ, chưa có thông tin in hoá đơn, chưa có thông tin chuyển phát**|KN_CNHD
 |14|**KN chuyển phát CA**|KN chưa nhận được cks không thuộc BKE,**đã có thông tin in hoá đơn và chuyển HTKD2**|
 |15|**KN hoá đơn**|chuyển các KH KN hoá đơn bị sai|
-|16|**KN hơp đồng**|KH KN hợp đồng,Kh muốn sửa đổi HĐ(chưa nhận được HĐ đã đy) **chưa trả lại bản HĐ cho KH**|KHHĐg|
+|16|**KN hợp đồng**|KH KN hợp đồng,Kh muốn sửa đổi HĐ(chưa nhận được HĐ đã đy) **chưa trả lại bản HĐ cho KH**|KHHĐg|
 |||KH cần thêm giấy bảo lưu|KHHĐg
-|17|**Cấp lại CKS**|KH có nhu cầu cấp lại CKS , thay đổi thông tin|Cấp_lại|
+|17|**Cấp lại CKS**|KH có nhu cầu cấp lại CKS(chuyển sau khi đã hướng dẫn thủ tục,gửi mail cho KH) bao gồm: thay đổi thông tin: tên công ty, MST, địa chỉ KD từ cấp huyện|Cấp_lại|
 |18|**Cấp lại CKS**|KH báo chuyển nhượng cks, thời gian sd ( gửi đơn chuyển nhượng cho KH vs giấy đk KD của DN mới|Cấp_lại
 |19|**Công nợ CA phát sinh**|KH đã fax uỷ nhiệm chi(chuyển khoản), phiếu thu(tiền mặt) cho bkav|Công_nợ
-|||KH CA báo có nhu cầu thanh toán, KH KN chưa nhận được hoá đơn ( chưa thanh toán tiền, cần đề nghị thanh toán)|Công_nợ
-|||KH có yêu cầu bảo lưu hạn sd CKS không có mã đại lí or KH có mã đại lí nhưng 0%|Công_nợ
+|||KH CA báo có nhu cầu thanh toán, KH KN chưa nhận được hoá đơn ( **chưa thanh toán tiền, cần đề nghị thanh toán**)|Công_nợ
+|||KH có yêu cầu bảo lưu hạn sd CKS không có mã đại lí or KH có mã đại lí nhưng mức chiết khấu=0% (**CHưa kiểm tra được thông tin thanh toán**)|Công_nợ
 |20|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
 |||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
-|21|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí - KH đại lí có nhu cầu thaanh toán phí|
+|21|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí và mức chiết khấu # - KH đại lí có nhu cầu thaanh toán phí|
 |22|**Đại lí CA**|KH có nhu cầu làm đại lí, hỏi triết khấu, đại lí đk thêm cks, thanh toán chiết khấu cho đại lí|ĐẠI_Lí
 |||KH đang sd 3 cks trở lên và muốn đkí mua thêm cks mới để BPTKD3 mời KH làm đại lí|Đại_lí
 |||KH đại lí bảo lưu hạn sd và gọi lên có nhu cầu dùng lại. nếu KH thuộc ĐL GOL thì chuyển sang ban PTKD3|Đại_lí
