@@ -11,7 +11,7 @@
 |||KH ĐL đã bảo lưu CKS giờ có nhu cầu sd tiếp||
 |5|**B gọi IVAn phát sinh**|KH có nhu cầu thay đổi gói cước IVAN|Loanpt
 |6|**B gọi IVAN phát sinh**|KH có nhu cầu đk IVAN mới||
-|7|**Xác minh huỷ dịch vụ**|KH báo huỷ dịch vụ|Huỷ|
+|7|**Xác minh huỷ dịch vụ**|KH báo huỷ dịch vụ TVAN vs CKS|Huỷ|
 |||Kh bảo lưu hạn sd (Kiểm tra đã thấy thông tin KH thanh toán phí)|Huỷ|
 |8|**KN cấp sai CKS**|KH báo thông tin trên CKS bị sai|KN_Cấp sai_CKS
 |||KH chư nhận được KM, chưa nhận được GCNGH|KN_Cấp sai_CKS
@@ -50,5 +50,6 @@
 |||KH đã huỷ và trả CKS nhưng muốn dùng lại|Mua_mới|
 |30|**Báo manager**|Vấn đề khác|
 |31|**HTKT Ivan**|Lần đầu KH sd IVAN|
+|32|**XM huỷ dịch vụ Ivan**|Kh yêu cầu hủy DV IVAN|
 **Hủy dịch vụ or gia hạn ngay trong ngày chuyển acc**
 
