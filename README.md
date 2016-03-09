@@ -55,5 +55,7 @@
 |30|**Báo manager**|Vấn đề khác|
 |31|**HTKT Ivan**|Lần đầu KH sd IVAN|
 |32|**XM huỷ dịch vụ Ivan**|Kh yêu cầu hủy DV IVAN|
+|33|**Gia hạn Ivan phát sinh**|KH Có yêu cầu GH Tvan|
+|34|**Gia hạn Ivan**|KH có nhu cầu thay đổi gói cước, Khuyến mãi Ivan|
 **Hủy dịch vụ or gia hạn ngay trong ngày chuyển acc**
 
