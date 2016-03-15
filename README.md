@@ -13,8 +13,8 @@
 |3|**Gia hạn CA đại lí**|KH có nhu cầu thay đổi gói cước CKS/TVAN của KH đại lí||
 |4|**Gia hạn CA đại lí**|KH có nhu cầu GH, kiểm tra trong hồ sơ KH có 4 CKS trở lên||
 |||KH ĐL đã bảo lưu CKS giờ có nhu cầu sd tiếp||
-|5|**B gọi IVAn phát sinh**|KH có nhu cầu thay đổi gói cước IVAN|Loanpt
-|6|**B gọi IVAN phát sinh**|KH có nhu cầu đk IVAN mới||
+|5|**B gọi IVAN phát sinh**|KH lẻ có nhu cầu đk IVAN mới||
+|||KH yêu cầu tư vấn giá mua mới Ivan
 |7|**Xác minh huỷ dịch vụ**|KH báo huỷ dịch vụ TVAN vs CKS|Huỷ|
 |||Kh bảo lưu hạn sd (Kiểm tra đã thấy thông tin KH thanh toán phí)|Huỷ|
 |8|**KN cấp sai CKS**|KH báo thông tin trên CKS bị sai|KN_Cấp sai_CKS
