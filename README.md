@@ -78,3 +78,12 @@
 
 **Hủy dịch vụ or gia hạn ngay trong ngày chuyển acc**
 
+
+Các bên khi tiếp nhận thông tin KH có nhu cầu cấp Dịch vụ phần mềm SSL gửi công văn nội bộ sang Phòng Dịch vụ an minh mạng/BANM tư vấn thuyết phục KH: Thông tin chuyển sang bao gồm tên KH, MST/công ty, địa chỉ, SĐT liên hệ, nội dung vấn đề.
+
+- Phòng dịch vụ an ninh mạng/BANM nhận được công văn yêu cầu của các bên tư vấn thuyết phục KH đồng ý mua sau đó làm thủ tục hồ sơ gồm: bản đăng ký sử dụng, ký hợp đồng, hướng dẫn KH tạo request PKCS#10 (công văn trích yếu).  Chuyển công văn cấp dịch vụ này cho BHTKD5 qua luồng công văn" Đề nghị cấp/huỷ CKS": ( Thông tin bao gồm: Tên DN, Tên KH, Điện thoại, Địa chỉ giao nhận, MST, Địa chỉ VAT, PKCS#10, Tên miền,  Góí cước, Thành tiền, Tổng tiền thực thu, Hình thức thanh toán: Chuyển khoản, Địa chỉ hóa đơn, Địa chỉ chuyển phát, Lưu ý khi giao).
+
+* Lưu ý: Do giá của loại dịch vụ này cao nên đơn hàng khi cấp mặc định là Chuyển khoản, không thu tiền mặt.
+
+
+
