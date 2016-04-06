@@ -34,7 +34,8 @@ Thu nhập cá nhân: tncnonline.com.vn
 |13|**KN cấp sai CKS**|KH báo thông tin trên CKS bị sai|KN_Cấp sai_CKS
 |||KH chư nhận được KM, chưa nhận được GCNGH|KN_Cấp sai_CKS
 |||KH cần gửi thêm 1 giấy chứng nhận sd CKS, bị phạt do nộp chậm|KN_Cấp sai_CKS
-|||KH khiếu nại cấp sai TVAN
+|||KH khiếu nại cấp sai TVAN, Ivan
+|||KH khiếu nại bị phạt do nộp tờ khai chậm tờ khai
 |14|**KN tài khoản iHTKK**|Các vấn đề lquan đến tài khoản iHTKK|KN_IHTKK|
 |15|**khiếu nại TK Tvan**|Các vấn đề lquan đến tài khoản IVAN|KN_IVAN
 |16|**KN chuyển phát**|CHua nhận được CKS/IVAN/Tvan đã cấp >1 ngày|KNCP
@@ -42,8 +43,9 @@ Thu nhập cá nhân: tncnonline.com.vn
 |17|**KN dịch vụ KH chuyển phát**|Chưa nhận được CKS, tài khoản Ivan, Tvan (không thuộc BKE), Giấy chứng nhận Ivan/Tvan|KN_DVKH_CP
 |||In lại chứng từ liên quan đến CKS,Tvan,IVAN.
 |18|**KN chưa nhận được hoá đơn**|KH KN chưa nhận được hoá đơn **đã hoàn thiện đầy đủ hồ sơ, chưa có thông tin in hoá đơn, chưa có thông tin chuyển phát**|KN_CNHD
-|19|**KN chuyển phát CA**|KN chưa nhận được cks không thuộc BKE,**đã có thông tin in hoá đơn và chuyển HTKD2**|
-|||KH khiếu nại chưa nhận được IVAN, Hóa đơn (TH đã có thông tin chuyển BĐ)|
+|19|**KN chuyển phát CA**|KN chưa nhận được cks, hóa đơn,**đã có thông tin in hoá đơn và chuyển HTKD2**|
+|||Đã thanh toán nhưng NV bưu điện qua thu vẫn báo thanh toán tiếp|
+|||KH khiếu nại chưa nhận được TVAN,Ivan Hóa đơn (TH đã có thông tin chuyển BĐ)|
 |20|**KN hoá đơn**|chuyển các KH KN hoá đơn bị sai|
 |21|**KN hợp đồng**|KH KN hợp đồng,Kh muốn sửa đổi HĐ(chưa nhận được HĐ đã đy) **chưa trả lại bản HĐ cho KH**|KHHĐg|
 |||KH cần thêm giấy bảo lưu|KHHĐg
@@ -51,6 +53,7 @@ Thu nhập cá nhân: tncnonline.com.vn
 |||KH báo chuyển nhượng cks, thời gian sd ( gửi đơn chuyển nhượng cho KH vs giấy đk KD của DN mới|Cấp_lại
 |||KH cần cấp lại TVAN (do thay đổi thông tin) 
 |||KH cần chuyển nhượng TVAN
+|||KH cần cấp lại Ivan do thay đổi thông tin
 |23|**Công nợ CA phát sinh**| KH có nhu cầu thanh toán + hoàn thiện hồ sơ |Công_nợ 
 ||| KH hẹn thanh toán xa có nhu cầu bảo lưu thời hạn CKS 
 |||KH BIDV chưa thanh toán 
@@ -58,6 +61,7 @@ Thu nhập cá nhân: tncnonline.com.vn
 |||KH thường có nhu cầu bảo lưu hạn sử dụng CKS không có mã đại lý hoặc KH có mã đại lý và mức chiết khấu =0 (Chưa kiểm tra được thông tin thanh toán) |Công_nợ
 |24|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
 |||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
+|||KH đã thanh toán nhưng chưa hoàn thiện HS CKS cần xuất hóa đơn
 |25|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí và mức chiết khấu #0 (**chưa kiểm tra được thông tin thanh toán**) - KH đại lí có nhu cầu thaanh toán phí|
 |26|**Đại lí CA**|KH có nhu cầu làm đại lí, hỏi triết khấu, đại lí đk thêm cks, thanh toán chiết khấu cho đại lí|ĐẠI_Lí
 |||KH đang sd 3 cks trở lên và muốn đkí mua thêm cks mới để BPTKD3 mời KH làm đại lí|Đại_lí
@@ -76,6 +80,7 @@ Thu nhập cá nhân: tncnonline.com.vn
 |34|**Báo manager**|Vấn đề khác|
 |35|**HTKT Ivan**|Lần đầu KH sd IVAN|
 |36|**XM huỷ dịch vụ Ivan**|Kh yêu cầu hủy DV IVAN|
+|37|**BKE CA**|KH báo hủy thu HS, CKS, tiền, thời gian hẹn giao (Đã có NVgửi box báo thu trước đó)|
 
 **Hủy dịch vụ or gia hạn ngay trong ngày chuyển acc**
 
