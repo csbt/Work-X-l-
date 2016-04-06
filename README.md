@@ -39,11 +39,8 @@ Thu nhập cá nhân: tncnonline.com.vn
 |15|**khiếu nại TK Tvan**|Các vấn đề lquan đến tài khoản IVAN|KN_IVAN
 |16|**KN chuyển phát**|CHua nhận được CKS/IVAN/Tvan đã cấp >1 ngày|KNCP
 |||Chưa nhận được hồ sơ, chưa thu tiền, chưa hỗ trợ tận nơi, báo không đến thu nữa.. **đã có thông tinh báo thu ccs**|KNCP
-|17|**KN dịch vụ KH chuyển phát**|Chưa nhận được thông báo cấp sp IVAN/TVAN|KN_DVKH_CP
-|||Chuyển các vấn đề lquan đến chưa nhận được CKS|KN_DVKH_CP
-|||Chưa có băng thông sp|KN_DVKH_CP
-|||KH khiếu nại chưa nhận được tài khoản IVAN (Không thuộc BKE)/giấy chứng nhận IVAN.
-|||In lại chứng từ liên quan đến IVAN.
+|17|**KN dịch vụ KH chuyển phát**|Chưa nhận được CKS, tài khoản Ivan, Tvan (không thuộc BKE), Giấy chứng nhận Ivan/Tvan|KN_DVKH_CP
+|||In lại chứng từ liên quan đến CKS,Tvan,IVAN.
 |18|**KN chưa nhận được hoá đơn**|KH KN chưa nhận được hoá đơn **đã hoàn thiện đầy đủ hồ sơ, chưa có thông tin in hoá đơn, chưa có thông tin chuyển phát**|KN_CNHD
 |19|**KN chuyển phát CA**|KN chưa nhận được cks không thuộc BKE,**đã có thông tin in hoá đơn và chuyển HTKD2**|
 |||KH khiếu nại chưa nhận được IVAN, Hóa đơn (TH đã có thông tin chuyển BĐ)|
@@ -54,9 +51,11 @@ Thu nhập cá nhân: tncnonline.com.vn
 |||KH báo chuyển nhượng cks, thời gian sd ( gửi đơn chuyển nhượng cho KH vs giấy đk KD của DN mới|Cấp_lại
 |||KH cần cấp lại TVAN (do thay đổi thông tin) 
 |||KH cần chuyển nhượng TVAN
-|23|**Công nợ CA phát sinh**|KH đã fax uỷ nhiệm chi(chuyển khoản), phiếu thu(tiền mặt) cho bkav|Công_nợ
-|||KH CA báo có nhu cầu thanh toán, KH KN chưa nhận được hoá đơn ( **chưa thanh toán tiền, cần đề nghị thanh toán**)|Công_nợ
-|||KH có yêu cầu bảo lưu hạn sd CKS không có mã đại lí or KH có mã đại lí nhưng mức chiết khấu=0% (**CHưa kiểm tra được thông tin thanh toán**)|Công_nợ
+|23|**Công nợ CA phát sinh**| KH có nhu cầu thanh toán + hoàn thiện hồ sơ  
+- KH hẹn thanh toán xa có nhu cầu bảo lưu thời hạn CKS 
+- KH BIDV chưa thanh toán 
+- KH chưa thanh toán yêu cầu hóa đơn/Giấy đề nghị thanh toán
+- KH thường có nhu cầu bảo lưu hạn sử dụng CKS không có mã đại lý hoặc KH có mã đại lý và mức chiết khấu =0 (Chưa kiểm tra được thông tin thanh toán) |Công_nợ
 |24|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
 |||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
 |25|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí và mức chiết khấu #0 (**chưa kiểm tra được thông tin thanh toán**) - KH đại lí có nhu cầu thaanh toán phí|
