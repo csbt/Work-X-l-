@@ -51,11 +51,11 @@ Thu nhập cá nhân: tncnonline.com.vn
 |||KH báo chuyển nhượng cks, thời gian sd ( gửi đơn chuyển nhượng cho KH vs giấy đk KD của DN mới|Cấp_lại
 |||KH cần cấp lại TVAN (do thay đổi thông tin) 
 |||KH cần chuyển nhượng TVAN
-|23|**Công nợ CA phát sinh**| KH có nhu cầu thanh toán + hoàn thiện hồ sơ  
-- KH hẹn thanh toán xa có nhu cầu bảo lưu thời hạn CKS 
-- KH BIDV chưa thanh toán 
-- KH chưa thanh toán yêu cầu hóa đơn/Giấy đề nghị thanh toán
-- KH thường có nhu cầu bảo lưu hạn sử dụng CKS không có mã đại lý hoặc KH có mã đại lý và mức chiết khấu =0 (Chưa kiểm tra được thông tin thanh toán) |Công_nợ
+|23|**Công nợ CA phát sinh**| KH có nhu cầu thanh toán + hoàn thiện hồ sơ |Công_nợ 
+||| KH hẹn thanh toán xa có nhu cầu bảo lưu thời hạn CKS 
+|||KH BIDV chưa thanh toán 
+|||KH chưa thanh toán yêu cầu hóa đơn/Giấy đề nghị thanh toán
+|||KH thường có nhu cầu bảo lưu hạn sử dụng CKS không có mã đại lý hoặc KH có mã đại lý và mức chiết khấu =0 (Chưa kiểm tra được thông tin thanh toán) |Công_nợ
 |24|**Công nợ CA hồ sơ phát sih**|**hợp đồng trắng** KH đã có cks cần hướng dẫn thủ tục để hoàn thiện hồ sơ, có nhu cầu thu hồ sơ đăng kí mới, gia hạn|
 |||KH CA hỏi các vấn đề lquan đến hoàn thiện hồ sơ ( KH đã có cks, kh đã thanh toán...)|
 |25|**Công nợ CA đại lí**|KH có nhu cầu bảo lưu hạn sd cks có mã đại lí và mức chiết khấu #0 (**chưa kiểm tra được thông tin thanh toán**) - KH đại lí có nhu cầu thaanh toán phí|
